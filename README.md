@@ -28,7 +28,7 @@ In India, the restaurant industry is booming. Currently, the Indian Restaurant M
 
 This dataset contains the data of a reknowned restaurant in Mumbai which is famous for Dosa. It has variety of Dosa’s in it. In the dataset we have different columns where we have selling price, discount price, categories, quantities, etc.
 
-Also we have one more sheet where sales are been consolidated so that sales and performance analysis can be done.![image](https://user-images.githubusercontent.com/49811782/173016933-55ca11e3-73ec-4df3-b881-96274b91ba7a.png)
+Also we have one more sheet where sales are been consolidated so that sales and performance analysis can be done.
 
 ## 🚀 Tech Stack
 
